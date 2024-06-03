@@ -11,11 +11,9 @@ distilabel
 faiss-cpu
 faiss-gpu
 fiftyone
-flash-attn
 ftfy
 google-search-results
 huggingface_hub
-json
 langchain
 langchain-community
 langchain-openai
