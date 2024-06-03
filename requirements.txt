@@ -2,7 +2,10 @@ Pillow
 accelerate
 aiohttp
 argilla
+awscli
+aws-jupyter-proxy
 bitsandbytes
+boto3
 bs4
 chromadb
 datasets
@@ -14,6 +17,8 @@ fiftyone
 ftfy
 google-search-results
 huggingface_hub
+jupyter
+jupyterlab
 langchain
 langchain-community
 langchain-openai
