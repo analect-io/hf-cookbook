@@ -40,7 +40,6 @@ sentence-transformers
 sentencepiece
 serpapi
 setfit
-torch
 tqdm
 transformers
 umap-learn
