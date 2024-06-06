@@ -40,6 +40,8 @@ sentence-transformers
 sentencepiece
 serpapi
 setfit
+torch
+torchvision
 tqdm
 transformers
 umap-learn
